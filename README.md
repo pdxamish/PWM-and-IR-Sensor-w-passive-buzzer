@@ -1,4 +1,4 @@
-# PWM-and-IR-Sensor-w-passive-buzzer on Pi Pico
+# PWM-and-Ultra -Sonic-Sensor-w-passive-buzzer on Pi Pico
 Using Pi Pico to "play" different notes depending on where my hand is to the board. HC-SR04 IR Sensor, passive buzzerUsing Micropython
 
 Kinda fun project to get to know the Pi Pico.  I was at first using the IR Sensor and passive bizzer with different feequencies but decided to use them together.  I will input the text file with all of the frequency and notes/octives is saved.  You can you also save the notes as a dictionary or Tuple but this was easiest since I just concatenatated it in excel. Make sure you have a passive not an active buzzer and we are using 3.3v.
